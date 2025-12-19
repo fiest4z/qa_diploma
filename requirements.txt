@@ -1,0 +1,4 @@
+allure-python-commons
+requests
+pytest
+selenium
